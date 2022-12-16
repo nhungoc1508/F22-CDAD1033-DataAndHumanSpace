@@ -1,0 +1,641 @@
+,id,creator_regularized,city,country,lat,lng,languages,lang_count,classification,photo_url
+0,71197,cy1413,Abu Dhabi,United Arab Emirates,24.52454165,54.43358445,"['ARA', 'ENG', 'SPA']",3,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71197.jpeg
+1,71215,cy1413,Abu Dhabi,United Arab Emirates,24.52398989,54.43413976,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71215.jpeg
+2,71224,cy1413,Abu Dhabi,United Arab Emirates,24.52400588,54.434143,"['ENG', 'FRA', 'JPN', 'SPA', 'ZHO']",5,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71224.jpeg
+3,73344,cy1413,Abu Dhabi,United Arab Emirates,24.52316977,54.43504203,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73344.jpeg
+4,73347,cy1413,Abu Dhabi,United Arab Emirates,24.50114392,54.3889134,"['ARA', 'ENG']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73347.jpeg
+5,73349,cy1413,Dubai,United Arab Emirates,25.13292382,55.11871465,"['ARA', 'ENG', 'ZHO']",3,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73349.jpeg
+6,73351,cy1413,Abu Dhabi,United Arab Emirates,24.52326891,54.43499241,['ENG'],1,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73351.jpeg
+7,73352,cy1413,Abu Dhabi,United Arab Emirates,24.52390459,54.43417199,['ENG'],1,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73352.jpeg
+8,73356,cy1413,Dubai,United Arab Emirates,25.07178957,55.30742414,"['ENG', 'JPN']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73356.jpeg
+9,73359,cy1413,Dubai,United Arab Emirates,25.0717589,55.30762531,"['ARA', 'ENG']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73359.jpeg
+10,73360,cy1413,Dubai,United Arab Emirates,25.07175374,55.30759379,['ARA'],1,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73360.jpeg
+11,73361,cy1413,Dubai,United Arab Emirates,25.07178107,55.30757368,"['ARA', 'ENG']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73361.jpeg
+12,73363,cy1413,Dubai,United Arab Emirates,25.07169088,55.30749556,['ENG'],1,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73363.jpeg
+13,73364,cy1413,Dubai,United Arab Emirates,25.07179048,55.30761994,"['ARA', 'ENG']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73364.jpeg
+14,73365,cy1413,Dubai,United Arab Emirates,25.07175799,55.30756529,"['ENG', 'ITA']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73365.jpeg
+15,73367,cy1413,Dubai,United Arab Emirates,25.06989851,55.24398085,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73367.jpeg
+16,73382,cy1413,Dubai,United Arab Emirates,25.07002363,55.24414312,"['ARA', 'ENG', 'ZHO']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73382.jpeg
+17,73386,cy1413,Dubai,United Arab Emirates,25.07012901,55.24415016,"['ARA', 'ENG', 'ZHO']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73386.jpeg
+18,73392,cy1413,Abu Dhabi,United Arab Emirates,24.47925365,54.37012251,"['ARA', 'URD']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73392.jpeg
+19,73393,cy1413,Abu Dhabi,United Arab Emirates,24.47918408,54.37020935,['BEN'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73393.jpeg
+20,73397,cy1413,Abu Dhabi,United Arab Emirates,24.47070277,54.37270213,"['ARA', 'ENG']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73397.jpeg
+21,73399,cy1413,Dubai,United Arab Emirates,25.07028754,55.3044536,['ENG'],1,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73399.jpeg
+22,73400,cy1413,Dubai,United Arab Emirates,25.06997079,55.30429401,"['ENG', 'KOR']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73400.jpeg
+23,73402,cy1413,Dubai,United Arab Emirates,25.06966649,55.30515935,"['ARA', 'ENG']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73402.jpeg
+24,73408,cy1413,Dubai,United Arab Emirates,25.06589004,55.30689508,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73408.jpeg
+25,73409,cy1413,Dubai,United Arab Emirates,25.069371,55.30931309,"['ARA', 'ENG', 'JPN']",3,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73409.jpeg
+26,73411,cy1413,Dubai,United Arab Emirates,25.06971204,55.30926649,"['ARA', 'ENG']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73411.jpeg
+27,73412,cy1413,Dubai,United Arab Emirates,25.06968653,55.30926984,"['ARA', 'ENG', 'JPN']",3,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73412.jpeg
+28,73413,cy1413,Dubai,United Arab Emirates,25.06976458,55.30911159,['ZHO'],1,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73413.jpeg
+29,73414,cy1413,Dubai,United Arab Emirates,25.06969625,55.30925609,"['ENG', 'JPN']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73414.jpeg
+30,73415,cy1413,Dubai,United Arab Emirates,25.06706413,55.30582722,"['ARA', 'ENG']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73415.jpeg
+31,73416,cy1413,Dubai,United Arab Emirates,25.06703498,55.30580878,"['ENG', 'KOR']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73416.jpeg
+32,73418,cy1413,Dubai,United Arab Emirates,25.06934579,55.30938987,"['ARA', 'ENG']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73418.jpeg
+33,73419,cy1413,Dubai,United Arab Emirates,25.06947972,55.30447572,['ENG'],1,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73419.jpeg
+34,73420,cy1413,Dubai,United Arab Emirates,25.06990823,55.24416056,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73420.jpeg
+35,73421,cy1413,Dubai,United Arab Emirates,25.0697661,55.24422526,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73421.jpeg
+36,73422,cy1413,Dubai,United Arab Emirates,25.06994437,55.24411865,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73422.jpeg
+37,73423,cy1413,Dubai,United Arab Emirates,25.0699556,55.24417531,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73423.jpeg
+38,73426,cy1413,Dubai,United Arab Emirates,25.06988575,55.24417832,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73426.jpeg
+39,73428,cy1413,Dubai,United Arab Emirates,25.06994558,55.24416558,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73428.jpeg
+40,73429,cy1413,Dubai,United Arab Emirates,25.05721696,55.24658527,"['ARA', 'ENG', 'ZHO']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73429.jpeg
+41,73431,cy1413,Dubai,United Arab Emirates,25.13189028,55.11834618,['ENG'],1,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73431.jpeg
+42,73433,cy1413,Dubai,United Arab Emirates,25.13290986,55.11872672,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73433.jpeg
+43,73435,cy1413,Dubai,United Arab Emirates,25.13291805,55.11877298,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73435.jpeg
+44,73437,cy1413,Dubai,United Arab Emirates,25.11477388,55.13769966,"['ARA', 'ENG', 'JPN']",3,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73437.jpeg
+45,73440,cy1413,Dubai,United Arab Emirates,25.11471924,55.13767116,"['ARA', 'ENG', 'ZHO']",3,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73440.jpeg
+46,73443,cy1413,Abu Dhabi,United Arab Emirates,24.47932567,54.37005579,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73443.jpeg
+47,73445,cy1413,Abu Dhabi,United Arab Emirates,24.49194617,54.36630908,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73445.jpeg
+48,73448,cy1413,Dubai,United Arab Emirates,25.06707628,55.30685216,['ENG'],1,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73448.jpeg
+49,73935,mhs581,Sarajevo,Bosnia and Herzegovina,43.85944074,18.42890862,"['BOS', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73935.jpeg
+50,73936,mhs581,Sarajevo,Bosnia and Herzegovina,43.85789353,18.42882916,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73936.jpeg
+51,73937,mhs581,Sarajevo,Bosnia and Herzegovina,43.86000353,18.43152344,['ENG'],1,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73937.jpeg
+52,73940,mhs581,Sarajevo,Bosnia and Herzegovina,43.85930851,18.42787195,['ENG'],1,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73940.jpeg
+53,73943,mhs581,Sarajevo,Bosnia and Herzegovina,43.86016187,18.3995153,"['BOS', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73943.jpeg
+54,73944,mhs581,,Czechia,50.0734149,14.44070723,['CES'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73944.jpeg
+55,73945,mhs581,Terezín,Czechia,50.51321802,14.16070674,"['CES', 'ENG']",2,historic-worship,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73945.jpeg
+56,73946,mhs581,,Czechia,50.08604743,14.41810459,"['FRA', 'ITA']",2,financial,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73946.jpeg
+57,73947,mhs581,,Czechia,50.08621867,14.40680344,"['CES', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73947.jpeg
+58,73948,mhs581,,Czechia,50.07413962,14.43893127,"['CES', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73948.jpeg
+59,73949,mhs581,,Czechia,50.07518022,14.43772696,"['CES', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73949.jpeg
+60,73950,mhs581,T'bilisi,Georgia,41.6912894,44.8067341,"['ENG', 'KAT']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73950.jpeg
+61,73957,mhs581,T'bilisi,Georgia,41.6912218,44.80676293,"['ENG', 'KAT']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73957.jpeg
+62,73958,mhs581,Offenbach,Germany,50.07822634,8.735976554,"['DEU', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73958.jpeg
+63,73959,mhs581,Königstein im Taunus,Germany,50.18264361,8.466638513,"['DEU', 'ITA']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73959.jpeg
+64,73960,mhs581,Frankfurt am Main,Germany,50.11465229,8.680706955,['DEU'],1,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73960.jpeg
+65,73961,mhs581,Königstein im Taunus,Germany,50.18252596,8.467335887,['DEU'],1,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73961.jpeg
+66,73962,mhs581,Lahore,Pakistan,31.48421662,74.30028733,"['ENG', 'URD']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73962.jpeg
+67,73963,mhs581,Sheikhupura,Pakistan,31.7121335,73.98195237,['URD'],1,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73963.jpeg
+68,73964,mhs581,Talhata,Pakistan,34.44921266,73.41906633,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73964.jpeg
+69,73965,mhs581,,Pakistan,34.09341915,73.49836718,"['ENG', 'URD']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73965.jpeg
+70,73966,mhs581,,Pakistan,34.09373651,73.49871822,"['ENG', 'URD']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73966.jpeg
+71,73967,mhs581,Nathia Gali,Pakistan,34.07215873,73.38226609,"['ENG', 'URD']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73967.jpeg
+72,73968,mhs581,,Pakistan,34.08155348,71.71771232,"['ENG', 'URD', 'ZHO']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73968.jpeg
+73,73969,mhs581,Sheikhupura,Pakistan,31.70328871,74.01837509,"['ENG', 'PAN', 'URD']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73969.jpeg
+74,73970,mhs581,Sheikhupura,Pakistan,31.71638232,73.96848164,['URD'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73970.jpeg
+75,73971,mhs581,Sheikhupura,Pakistan,31.71814316,73.9787478,"['ENG', 'URD']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73971.jpeg
+76,73972,mhs581,Sheikhupura,Pakistan,31.70452154,74.01590712,"['ENG', 'URD']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73972.jpeg
+77,73973,mhs581,Sheikhupura,Pakistan,31.71338789,73.96406338,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73973.jpeg
+78,73974,mhs581,Medina,Saudi Arabia,24.47259902,39.60977174,"['ARA', 'ENG', 'FAS']",3,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73974.jpeg
+79,73975,mhs581,Medina,Saudi Arabia,24.46844213,39.61306952,['ARA'],1,historic-worship,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73975.jpeg
+80,73976,mhs581,Medina,Saudi Arabia,24.47653392,39.61145181,"['ARA', 'URD']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73976.jpeg
+81,73977,mhs581,Medina,Saudi Arabia,24.47595995,39.61141326,"['ARA', 'URD']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73977.jpeg
+82,73978,mhs581,Medina,Saudi Arabia,24.47326028,39.61100187,"['ARA', 'ENG']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73978.jpeg
+83,73979,mhs581,Abiar Al Mashi,Saudi Arabia,24.11526179,39.57362495,['ARA'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73979.jpeg
+84,73980,mhs581,Makkah,Saudi Arabia,21.45584864,39.86178741,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73980.jpeg
+85,73981,mhs581,,Turkey,41.01015689,28.96802802,"['ENG', 'TUR']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73981.jpeg
+86,73982,mhs581,,Turkey,41.01163564,28.98343999,"['ENG', 'TUR']",2,historic-worship,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73982.jpeg
+87,73983,mhs581,,Turkey,41.03607817,28.98396872,['TUR'],1,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73983.jpeg
+88,73984,mhs581,,Turkey,41.02339515,28.97874713,"['ENG', 'TUR']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73984.jpeg
+89,73985,mhs581,,Turkey,41.03004149,28.97486061,['TUR'],1,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73985.jpeg
+90,73986,mhs581,,Turkey,41.03044161,28.94681375,['TUR'],1,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73986.jpeg
+91,73987,mhs581,,Turkey,41.03067884,28.94709069,['TUR'],1,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73987.jpeg
+92,73988,mhs581,Abu Dhabi,United Arab Emirates,24.47383428,54.37637005,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73988.jpeg
+93,73989,mhs581,Abu Dhabi,United Arab Emirates,24.52371303,54.43455253,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73989.jpeg
+94,74052,mhs581,Dubai,United Arab Emirates,24.96871396,55.14787361,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74052.jpeg
+95,74053,mhs581,Abu Dhabi,United Arab Emirates,24.52192951,54.4353478,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74053.jpeg
+96,74054,mhs581,Abu Dhabi,United Arab Emirates,24.53804775,54.42533948,"['ARA', 'ENG']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74054.jpeg
+97,74056,mhs581,Miami,United States,25.77538642,-80.19165147,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74056.jpeg
+98,74057,mhs581,New York,United States,40.75706206,-73.986606,['ENG'],1,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74057.jpeg
+99,71200,yz5857,Abu Dhabi,United Arab Emirates,24.52454513,54.43357131,"['ARA', 'ENG', 'HIN']",3,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71200.jpeg
+100,71233,yz5857,Abu Dhabi,United Arab Emirates,24.486375,54.36366333,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71233.jpeg
+101,71654,yz5857,Abu Dhabi,United Arab Emirates,24.491955,54.36637167,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71654.jpeg
+102,71655,yz5857,Abu Dhabi,United Arab Emirates,24.492375,54.36584167,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71655.jpeg
+103,71656,yz5857,Abu Dhabi,United Arab Emirates,24.492,54.36610833,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71656.jpeg
+104,71657,yz5857,Abu Dhabi,United Arab Emirates,24.492025,54.366295,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71657.jpeg
+105,71658,yz5857,Abu Dhabi,United Arab Emirates,24.49212167,54.366375,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71658.jpeg
+106,73326,yz5857,Abu Dhabi,United Arab Emirates,24.52258667,54.43617167,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73326.jpeg
+107,73327,yz5857,Abu Dhabi,United Arab Emirates,24.49642167,54.37358,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73327.jpeg
+108,73328,yz5857,Abu Dhabi,United Arab Emirates,24.49638833,54.37401333,"['ENG', 'ZHO']",2,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73328.jpeg
+109,73329,yz5857,Abu Dhabi,United Arab Emirates,24.49638833,54.37401333,"['ENG', 'ZHO']",2,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73329.jpeg
+110,73330,yz5857,Abu Dhabi,United Arab Emirates,24.49705,54.37397,"['ENG', 'ZHO']",2,financial,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73330.jpeg
+111,73331,yz5857,Abu Dhabi,United Arab Emirates,24.49683695,54.37385648,"['ENG', 'ZHO']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73331.jpeg
+112,73332,yz5857,Abu Dhabi,United Arab Emirates,24.49590333,54.37227833,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73332.jpeg
+113,73333,yz5857,Abu Dhabi,United Arab Emirates,24.49556333,54.37166667,"['ARA', 'ENG', 'URD']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73333.jpeg
+114,73334,yz5857,Abu Dhabi,United Arab Emirates,24.49523667,54.371895,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73334.jpeg
+115,73335,yz5857,Abu Dhabi,United Arab Emirates,24.496555,54.37302167,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73335.jpeg
+116,73336,yz5857,Abu Dhabi,United Arab Emirates,24.49470333,54.37037,['ENG'],1,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73336.jpeg
+117,73337,yz5857,Abu Dhabi,United Arab Emirates,24.49230333,54.368625,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73337.jpeg
+118,71205,ap5724,Abu Dhabi,United Arab Emirates,24.52398914,54.43417791,"['ARA', 'ENG', 'HIN', 'SPA', 'ZHO']",5,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71205.jpeg
+119,73991,ap5724,Abu Dhabi,United Arab Emirates,24.48940333,54.373045,['ENG'],1,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73991.jpeg
+120,73993,ap5724,Abu Dhabi,United Arab Emirates,24.48944167,54.37322167,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73993.jpeg
+121,73994,ap5724,Abu Dhabi,United Arab Emirates,24.48961333,54.37343667,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73994.jpeg
+122,73995,ap5724,Abu Dhabi,United Arab Emirates,24.48965833,54.37346667,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73995.jpeg
+123,73998,ap5724,Abu Dhabi,United Arab Emirates,24.48588048,54.36303981,"['ARA', 'ENG', 'NEP']",3,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73998.jpeg
+124,74087,ap5724,Abu Dhabi,United Arab Emirates,24.49373667,54.372455,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74087.jpeg
+125,74089,ap5724,Abu Dhabi,United Arab Emirates,24.49382167,54.37182,"['ARA', 'ENG']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74089.jpeg
+126,71230,nnh245,Abu Dhabi,United Arab Emirates,24.5246751,54.43362113,['ZHO'],1,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71230.jpeg
+127,71231,nnh245,Abu Dhabi,United Arab Emirates,24.52442009,54.43386957,"['ENG', 'SPA']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71231.jpeg
+128,71665,nnh245,Abu Dhabi,United Arab Emirates,24.43216333,54.402305,"['ARA', 'ENG', 'VIE']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71665.jpeg
+129,71666,nnh245,Abu Dhabi,United Arab Emirates,24.472125,54.38488833,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71666.jpeg
+130,71667,nnh245,Abu Dhabi,United Arab Emirates,24.472105,54.384905,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71667.jpeg
+131,71668,nnh245,Abu Dhabi,United Arab Emirates,24.46198833,54.30579667,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71668.jpeg
+132,71669,nnh245,Philadelphia,United States,39.95393833,-75.189955,['ENG'],1,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71669.jpeg
+133,71670,nnh245,Philadelphia,United States,39.95086333,-75.193345,['ENG'],1,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71670.jpeg
+134,71673,nnh245,New York,United States,40.70249167,-74.012825,"['ENG', 'SPA']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71673.jpeg
+135,71674,nnh245,New York,United States,40.71708461,-73.9982022,"['ENG', 'VIE', 'ZHO']",3,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71674.jpeg
+136,71675,nnh245,New York,United States,40.78033333,-73.97422,"['ENG', 'SPA', 'ZHO']",3,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71675.jpeg
+137,71676,nnh245,New York,United States,40.70386333,-73.99257833,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71676.jpeg
+138,71677,nnh245,London,United Kingdom,51.50705333,-0.100975,['ENG'],1,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71677.jpeg
+139,71678,nnh245,London,United Kingdom,51.52357833,-0.11643617,['ENG'],1,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71678.jpeg
+140,71679,nnh245,Abu Dhabi,United Arab Emirates,24.53289667,54.398955,"['ARA', 'ENG', 'FRA']",3,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71679.jpeg
+141,71680,nnh245,Bến Nghé,Vietnam,10.77966333,106.6997,['VIE'],1,historic-worship,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71680.jpeg
+142,71681,nnh245,Bến Nghé,Vietnam,10.780845,106.69998,['VIE'],1,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71681.jpeg
+143,71682,nnh245,Bến Nghé,Vietnam,10.78050833,106.6995617,['VIE'],1,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71682.jpeg
+144,71683,nnh245,Bến Nghé,Vietnam,10.78052167,106.69883,['VIE'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71683.jpeg
+145,71684,nnh245,Bến Nghé,Vietnam,10.78033833,106.6990283,['VIE'],1,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71684.jpeg
+146,71685,nnh245,Phường 2,Vietnam,10.81626333,106.6643217,"['ENG', 'VIE']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71685.jpeg
+147,71686,nnh245,Incheon,South Korea,37.46805333,126.4373633,"['ENG', 'JPN', 'KOR', 'ZHO']",4,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71686.jpeg
+148,72495,nnh245,Abu Dhabi,United Arab Emirates,24.48694167,54.360855,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72495.jpeg
+149,72496,nnh245,Abu Dhabi,United Arab Emirates,24.485455,54.35750833,['ENG'],1,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72496.jpeg
+150,72497,nnh245,Abu Dhabi,United Arab Emirates,24.47121167,54.37168833,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72497.jpeg
+151,72498,nnh245,Abu Dhabi,United Arab Emirates,24.471095,54.37236333,"['ARA', 'ENG']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72498.jpeg
+152,72499,nnh245,Abu Dhabi,United Arab Emirates,24.52341333,54.43366667,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72499.jpeg
+153,72500,nnh245,Lisboa,Portugal,38.77542791,-9.131147079,"['ENG', 'POR']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72500.jpeg
+154,72501,nnh245,Tambon Nong Prue,Thailand,13.69159412,100.7502213,"['ENG', 'TAI']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72501.jpeg
+155,72502,nnh245,Nghia Do,Vietnam,21.0479308,105.8019488,"['ENG', 'VIE']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72502.jpeg
+156,72793,nnh245,Abu Dhabi,United Arab Emirates,24.532655,54.39908333,"['ARA', 'ENG', 'FRA']",3,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72793.jpeg
+157,72794,nnh245,Thị xã Hương Thủy,Vietnam,16.39945622,107.7005357,['ENG'],1,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72794.jpeg
+158,72795,nnh245,New York,United States,40.713005,-74.004325,"['ENG', 'LAT']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72795.jpeg
+159,72895,nnh245,Abu Dhabi,United Arab Emirates,24.50072833,54.38823333,"['ENG', 'ZHO']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72895.jpeg
+160,72896,nnh245,Abu Dhabi,United Arab Emirates,24.50117833,54.38984667,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72896.jpeg
+161,72897,nnh245,Abu Dhabi,United Arab Emirates,24.50140833,54.38928333,"['ARA', 'ENG']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72897.jpeg
+162,72923,nnh245,Abu Dhabi,United Arab Emirates,24.45384067,54.38032497,['ARA'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72923.jpeg
+163,73015,nnh245,Abu Dhabi,United Arab Emirates,24.50116667,54.38971333,['ENG'],1,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73015.jpeg
+164,74059,nnh245,Abu Dhabi,United Arab Emirates,24.53903833,54.40738333,"['ENG', 'ITA']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74059.jpeg
+165,74060,nnh245,Abu Dhabi,United Arab Emirates,24.49197,54.37414167,"['ENG', 'VIE']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74060.jpeg
+166,71208,?,Abu Dhabi,United Arab Emirates,24.523925,54.43416667,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71208.jpeg
+167,71226,alb970,Abu Dhabi,United Arab Emirates,24.5240159,54.43421298,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71226.jpeg
+168,71227,alb970,Abu Dhabi,United Arab Emirates,24.5236957,54.43469831,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71227.jpeg
+169,73366,alb970,Abu Dhabi,United Arab Emirates,24.44817167,54.367445,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73366.jpeg
+170,73368,alb970,Abu Dhabi,United Arab Emirates,24.44869667,54.368105,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73368.jpeg
+171,73370,alb970,Abu Dhabi,United Arab Emirates,24.44873667,54.36807167,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73370.jpeg
+172,73372,alb970,Abu Dhabi,United Arab Emirates,24.44986333,54.36436333,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73372.jpeg
+173,73373,alb970,Abu Dhabi,United Arab Emirates,24.44993667,54.36441667,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73373.jpeg
+174,73374,alb970,Abu Dhabi,United Arab Emirates,24.450475,54.36443333,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73374.jpeg
+175,73375,alb970,Abu Dhabi,United Arab Emirates,24.451345,54.36549667,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73375.jpeg
+176,73376,alb970,Abu Dhabi,United Arab Emirates,24.45248667,54.364945,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73376.jpeg
+177,73379,alb970,Abu Dhabi,United Arab Emirates,24.45496167,54.36706667,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73379.jpeg
+178,73380,alb970,Abu Dhabi,United Arab Emirates,24.45745833,54.36566167,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73380.jpeg
+179,73381,alb970,Abu Dhabi,United Arab Emirates,24.459645,54.36357167,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73381.jpeg
+180,73385,alb970,Abu Dhabi,United Arab Emirates,24.459845,54.3637,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73385.jpeg
+181,73387,alb970,Abu Dhabi,United Arab Emirates,24.46053,54.36241167,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73387.jpeg
+182,73388,alb970,Abu Dhabi,United Arab Emirates,24.46148,54.36169167,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73388.jpeg
+183,73389,alb970,Abu Dhabi,United Arab Emirates,24.462595,54.36248,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73389.jpeg
+184,73390,alb970,Abu Dhabi,United Arab Emirates,24.46276167,54.36263333,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73390.jpeg
+185,73394,alb970,Abu Dhabi,United Arab Emirates,24.46360833,54.36348667,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73394.jpeg
+186,73395,alb970,Abu Dhabi,United Arab Emirates,24.46486158,54.36441075,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73395.jpeg
+187,73396,alb970,Abu Dhabi,United Arab Emirates,24.46508069,54.36526906,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73396.jpeg
+188,73398,alb970,Abu Dhabi,United Arab Emirates,24.465545,54.36571333,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73398.jpeg
+189,73401,alb970,Abu Dhabi,United Arab Emirates,24.46666026,54.36697494,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73401.jpeg
+190,73403,alb970,Abu Dhabi,United Arab Emirates,24.466725,54.36709167,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73403.jpeg
+191,73547,alb970,Abu Dhabi,United Arab Emirates,24.46780333,54.36818333,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73547.jpeg
+192,74003,alb970,Abu Dhabi,United Arab Emirates,24.46901333,54.369595,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74003.jpeg
+193,74004,alb970,Abu Dhabi,United Arab Emirates,24.46985833,54.37058667,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74004.jpeg
+194,74005,alb970,Abu Dhabi,United Arab Emirates,24.47081667,54.37125333,"['ARA', 'ENG']",2,health,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74005.jpeg
+195,74006,alb970,Abu Dhabi,United Arab Emirates,24.470745,54.37182,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74006.jpeg
+196,74007,alb970,Abu Dhabi,United Arab Emirates,24.47153333,54.37265333,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74007.jpeg
+197,74008,alb970,Abu Dhabi,United Arab Emirates,24.47238833,54.373825,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74008.jpeg
+198,74009,alb970,Abu Dhabi,United Arab Emirates,24.47235833,54.373955,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74009.jpeg
+199,74010,alb970,Abu Dhabi,United Arab Emirates,24.47257,54.37462167,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74010.jpeg
+200,74011,alb970,Abu Dhabi,United Arab Emirates,24.47362167,54.37560333,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74011.jpeg
+201,74012,alb970,Abu Dhabi,United Arab Emirates,24.4736,54.37647,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74012.jpeg
+202,74013,alb970,Abu Dhabi,United Arab Emirates,24.47342833,54.37681167,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74013.jpeg
+203,74014,alb970,Abu Dhabi,United Arab Emirates,24.47365333,54.377505,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74014.jpeg
+204,74015,alb970,Abu Dhabi,United Arab Emirates,24.47401167,54.37777167,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74015.jpeg
+205,74016,alb970,Abu Dhabi,United Arab Emirates,24.473995,54.37793667,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74016.jpeg
+206,74017,alb970,Abu Dhabi,United Arab Emirates,24.47462833,54.3786,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74017.jpeg
+207,74018,alb970,Abu Dhabi,United Arab Emirates,24.474795,54.37876333,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74018.jpeg
+208,74019,alb970,Abu Dhabi,United Arab Emirates,24.47500333,54.37925333,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74019.jpeg
+209,74020,alb970,Abu Dhabi,United Arab Emirates,24.47597833,54.38,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74020.jpeg
+210,74021,alb970,Abu Dhabi,United Arab Emirates,24.475225,54.37911667,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74021.jpeg
+211,74022,alb970,Abu Dhabi,United Arab Emirates,24.47521333,54.37904667,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74022.jpeg
+212,74023,alb970,Abu Dhabi,United Arab Emirates,24.4752,54.37878333,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74023.jpeg
+213,74024,alb970,Abu Dhabi,United Arab Emirates,24.47498333,54.378595,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74024.jpeg
+214,74025,alb970,Abu Dhabi,United Arab Emirates,24.47481167,54.37828,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74025.jpeg
+215,74026,alb970,Abu Dhabi,United Arab Emirates,24.47450833,54.377605,"['ARA', 'ENG']",2,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74026.jpeg
+216,74027,alb970,Abu Dhabi,United Arab Emirates,24.47437167,54.377575,"['ARA', 'ENG']",2,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74027.jpeg
+217,74028,alb970,Abu Dhabi,United Arab Emirates,24.47365333,54.37644167,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74028.jpeg
+218,74029,alb970,Abu Dhabi,United Arab Emirates,24.47258,54.373905,"['ARA', 'ENG', 'FIL']",3,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74029.jpeg
+219,74030,alb970,Abu Dhabi,United Arab Emirates,24.47206167,54.37315333,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74030.jpeg
+220,74031,alb970,Abu Dhabi,United Arab Emirates,24.47128,54.37317,"['ARA', 'ENG']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74031.jpeg
+221,71198,,Abu Dhabi,United Arab Emirates,24.5245383,54.4335531,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71198.jpeg
+222,71201,,Abu Dhabi,United Arab Emirates,24.5247696,54.4333127,['ENG'],1,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71201.jpeg
+223,71207,?,أبو ظبي,United Arab Emirates,24.5248696,54.4331472,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71207.jpeg
+224,71209,?,Abu Dhabi,United Arab Emirates,24.5248336,54.4331666,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71209.jpeg
+225,73049,jl10525,Abu Dhabi,United Arab Emirates,24.49802128,54.37460393,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73049.jpeg
+226,73050,jl10525,Abu Dhabi,United Arab Emirates,24.49791307,54.3745834,['ARA'],1,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73050.jpeg
+227,73053,jl10525,Abu Dhabi,United Arab Emirates,24.49767349,54.37402412,['ARA'],1,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73053.jpeg
+228,73056,jl10525,Abu Dhabi,United Arab Emirates,24.49734796,54.37371023,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73056.jpeg
+229,73059,jl10525,Abu Dhabi,United Arab Emirates,24.49720452,54.37361514,"['ARA', 'ENG', 'ZHO']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73059.jpeg
+230,73063,jl10525,Abu Dhabi,United Arab Emirates,24.4967378,54.37349005,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73063.jpeg
+231,73072,jl10525,Abu Dhabi,United Arab Emirates,24.49703667,54.37375333,"['ENG', 'ZHO']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73072.jpeg
+232,73084,jl10525,Abu Dhabi,United Arab Emirates,24.49660529,54.37363143,['ENG'],1,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73084.jpeg
+233,73088,jl10525,Abu Dhabi,United Arab Emirates,24.49630876,54.37321303,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73088.jpeg
+234,73091,jl10525,Abu Dhabi,United Arab Emirates,24.49535,54.37353667,"['ARA', 'ENG', 'ZHO']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73091.jpeg
+235,73094,jl10525,Abu Dhabi,United Arab Emirates,24.49660844,54.37250566,"['ARA', 'ENG', 'MAL']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73094.jpeg
+236,73098,jl10525,Abu Dhabi,United Arab Emirates,24.49480515,54.3734109,"['ARA', 'ENG', 'MAL']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73098.jpeg
+237,73104,jl10525,Abu Dhabi,United Arab Emirates,24.49490576,54.37479183,['ENG'],1,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73104.jpeg
+238,73106,jl10525,Abu Dhabi,United Arab Emirates,24.49553175,54.37439166,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73106.jpeg
+239,73108,jl10525,Abu Dhabi,United Arab Emirates,24.4957428,54.37408918,"['ENG', 'JPN']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73108.jpeg
+240,73110,jl10525,Abu Dhabi,United Arab Emirates,24.49592178,54.37392688,['ENG'],1,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73110.jpeg
+241,73111,jl10525,Abu Dhabi,United Arab Emirates,24.49593303,54.37389781,['ENG'],1,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73111.jpeg
+242,73112,jl10525,Abu Dhabi,United Arab Emirates,24.49644432,54.37259066,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73112.jpeg
+243,73113,jl10525,Abu Dhabi,United Arab Emirates,24.49565239,54.37132165,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73113.jpeg
+244,73115,jl10525,Abu Dhabi,United Arab Emirates,24.49412897,54.37002618,"['ARA', 'ENG']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73115.jpeg
+245,73116,jl10525,Abu Dhabi,United Arab Emirates,24.49413174,54.36957219,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73116.jpeg
+246,73117,jl10525,Abu Dhabi,United Arab Emirates,24.49422737,54.36948618,['ARA'],1,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73117.jpeg
+247,73118,jl10525,Abu Dhabi,United Arab Emirates,24.49424579,54.36949578,['ENG'],1,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73118.jpeg
+248,73119,jl10525,Abu Dhabi,United Arab Emirates,24.49348509,54.36923445,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73119.jpeg
+249,73120,jl10525,Abu Dhabi,United Arab Emirates,24.49391864,54.36931852,"['ARA', 'ENG', 'HIN', 'URD']",4,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73120.jpeg
+250,73121,jl10525,Abu Dhabi,United Arab Emirates,24.49367012,54.36924526,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73121.jpeg
+251,73122,jl10525,Abu Dhabi,United Arab Emirates,24.49235489,54.36726634,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73122.jpeg
+252,73125,jl10525,Abu Dhabi,United Arab Emirates,24.492113,54.36615006,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73125.jpeg
+253,73126,jl10525,Abu Dhabi,United Arab Emirates,24.49207883,54.36609945,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73126.jpeg
+254,73127,jl10525,Abu Dhabi,United Arab Emirates,24.49200729,54.36588173,['ENG'],1,financial,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73127.jpeg
+255,73128,jl10525,Abu Dhabi,United Arab Emirates,24.49168437,54.36546223,['ENG'],1,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73128.jpeg
+256,73129,jl10525,Abu Dhabi,United Arab Emirates,24.49148317,54.36541119,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73129.jpeg
+257,73131,jl10525,Abu Dhabi,United Arab Emirates,24.49031551,54.36393055,['ENG'],1,health,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73131.jpeg
+258,73135,jl10525,Abu Dhabi,United Arab Emirates,24.49000221,54.36384112,"['ENG', 'JPN']",2,health,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73135.jpeg
+259,73137,jl10525,Abu Dhabi,United Arab Emirates,24.48994088,54.36351171,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73137.jpeg
+260,73140,jl10525,Abu Dhabi,United Arab Emirates,24.48992268,54.36355992,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73140.jpeg
+261,73145,jl10525,Abu Dhabi,United Arab Emirates,24.49022491,54.3643745,['ENG'],1,health,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73145.jpeg
+262,73152,jl10525,Abu Dhabi,United Arab Emirates,24.49098833,54.36519167,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73152.jpeg
+263,73161,jl10525,Abu Dhabi,United Arab Emirates,24.49225437,54.36583383,"['ARA', 'ENG', 'URD']",3,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73161.jpeg
+264,73164,jl10525,Abu Dhabi,United Arab Emirates,24.4922498,54.3661806,['BEN'],1,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73164.jpeg
+265,73166,jl10525,Abu Dhabi,United Arab Emirates,24.49228781,54.36643241,['ENG'],1,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73166.jpeg
+266,73169,jl10525,Abu Dhabi,United Arab Emirates,24.49229327,54.36723176,['ENG'],1,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73169.jpeg
+267,73178,jl10525,Abu Dhabi,United Arab Emirates,24.49512534,54.37122227,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73178.jpeg
+268,73182,jl10525,Abu Dhabi,United Arab Emirates,24.49614408,54.3727007,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73182.jpeg
+269,73184,jl10525,Abu Dhabi,United Arab Emirates,24.49718321,54.37290471,['ENG'],1,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73184.jpeg
+270,73185,jl10525,Abu Dhabi,United Arab Emirates,24.49729528,54.37202691,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73185.jpeg
+271,73186,jl10525,Abu Dhabi,United Arab Emirates,24.49760143,54.37177811,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73186.jpeg
+272,73187,jl10525,Abu Dhabi,United Arab Emirates,24.49733069,54.37213867,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73187.jpeg
+273,73188,jl10525,Abu Dhabi,United Arab Emirates,24.49712733,54.37229501,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73188.jpeg
+274,73358,jl10525,Abu Dhabi,United Arab Emirates,24.49163833,54.36630333,"['ARA', 'ENG']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73358.jpeg
+275,73384,ik1299,Abu Dhabi,United Arab Emirates,24.3413048,54.5183658,"['ARA', 'ENG', 'URD']",3,financial,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73384.jpeg
+277,74090,ik1299,Abu Dhabi,United Arab Emirates,24.34969819,54.50005777,['ARA'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74090.jpeg
+278,74092,ik1299,Abu Dhabi,United Arab Emirates,24.36340644,54.50877361,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74092.jpeg
+279,74095,ik1299,Abu Dhabi,United Arab Emirates,24.34940404,54.50488944,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74095.jpeg
+280,74097,ik1299,Abu Dhabi,United Arab Emirates,24.35600165,54.49822884,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74097.jpeg
+281,74101,ik1299,Abu Dhabi,United Arab Emirates,24.35678998,54.49493844,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74101.jpeg
+282,74103,ik1299,Abu Dhabi,United Arab Emirates,24.37257387,54.4958856,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74103.jpeg
+283,74104,ik1299,Abu Dhabi,United Arab Emirates,24.35905293,54.4953867,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74104.jpeg
+284,74106,ik1299,Abu Dhabi,United Arab Emirates,24.362773,54.49745033,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74106.jpeg
+285,74107,ik1299,Abu Dhabi,United Arab Emirates,24.3514023,54.49892353,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74107.jpeg
+286,74108,ik1299,Abu Dhabi,United Arab Emirates,24.35059775,54.49976105,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74108.jpeg
+287,74109,ik1299,Abu Dhabi,United Arab Emirates,24.35170714,54.49456796,"['ARA', 'ENG', 'MAL', 'URD']",4,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74109.jpeg
+288,74110,ik1299,Abu Dhabi,United Arab Emirates,24.36572883,54.49885715,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74110.jpeg
+289,74111,ik1299,Abu Dhabi,United Arab Emirates,24.36484343,54.4935048,"['ARA', 'ENG', 'URD']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74111.jpeg
+290,74112,ik1299,Abu Dhabi,United Arab Emirates,24.35824567,54.50502757,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74112.jpeg
+291,74113,ik1299,Abu Dhabi,United Arab Emirates,24.35035186,54.49547924,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74113.jpeg
+292,74114,ik1299,Abu Dhabi,United Arab Emirates,24.36597499,54.50166911,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74114.jpeg
+293,74115,ik1299,Abu Dhabi,United Arab Emirates,24.36263159,54.4874068,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74115.jpeg
+294,74116,ik1299,Abu Dhabi,United Arab Emirates,24.34740209,54.49702688,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74116.jpeg
+295,74117,ik1299,Abu Dhabi,United Arab Emirates,24.35341977,54.49173018,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74117.jpeg
+296,74118,ik1299,Abu Dhabi,United Arab Emirates,24.35545919,54.49865263,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74118.jpeg
+297,74119,ik1299,Abu Dhabi,United Arab Emirates,24.36405485,54.48661655,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74119.jpeg
+298,74120,ik1299,Abu Dhabi,United Arab Emirates,24.35651539,54.50104415,"['ARA', 'ENG']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74120.jpeg
+299,74121,ik1299,Abu Dhabi,United Arab Emirates,24.36944565,54.48219258,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74121.jpeg
+300,74122,ik1299,أبو ظبي,United Arab Emirates,24.34880108,54.49816413,['ARA'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74122.jpeg
+301,74123,ik1299,Abu Dhabi,United Arab Emirates,24.3601207,54.50774632,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74123.jpeg
+302,74124,ik1299,أبو ظبي,United Arab Emirates,24.5246152,54.4338676,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74124.jpeg
+303,74136,ik1299,Sarajevo,Bosnia and Herzegovina,43.85752752,18.40955045,['BOS'],1,health,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74136.jpeg
+304,72898,fa1287,Ras Al-Khaimah,United Arab Emirates,25.71354626,55.84657162,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72898.jpeg
+305,72899,fa1287,Ras Al-Khaimah,United Arab Emirates,25.71363507,55.84722944,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72899.jpeg
+306,72900,fa1287,Ras Al-Khaimah,United Arab Emirates,25.71361272,55.84703363,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72900.jpeg
+307,72901,fa1287,Al Raafah,United Arab Emirates,25.6113539,55.79239167,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72901.jpeg
+308,72902,fa1287,Ras Al-Khaimah,United Arab Emirates,25.7146292,55.8517902,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72902.jpeg
+309,72903,fa1287,Ras Al-Khaimah,United Arab Emirates,25.71388096,55.84807836,"['ARA', 'ENG', 'ITA']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72903.jpeg
+310,72904,fa1287,Ras Al-Khaimah,United Arab Emirates,25.71498897,55.85333314,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72904.jpeg
+311,72906,fa1287,Ras Al-Khaimah,United Arab Emirates,25.71506116,55.85330531,"['ARA', 'ENG']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72906.jpeg
+312,72907,fa1287,Ras Al-Khaimah,United Arab Emirates,25.7136825,55.84710002,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72907.jpeg
+313,72908,fa1287,Ras Al-Khaimah,United Arab Emirates,25.71516145,55.85422833,"['ARA', 'ENG', 'SPA']",3,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72908.jpeg
+314,72909,fa1287,Ras Al-Khaimah,United Arab Emirates,25.71552665,55.85584,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72909.jpeg
+315,72910,fa1287,Ras Al-Khaimah,United Arab Emirates,25.71491073,55.85289359,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72910.jpeg
+316,72911,fa1287,Ras Al-Khaimah,United Arab Emirates,25.71401539,55.84926054,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72911.jpeg
+317,72912,fa1287,Ras Al-Khaimah,United Arab Emirates,25.71495242,55.85320204,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72912.jpeg
+318,72913,fa1287,Ras Al-Khaimah,United Arab Emirates,25.71527926,55.85466888,"['ARA', 'ENG']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72913.jpeg
+319,72914,fa1287,Ras Al-Khaimah,United Arab Emirates,25.71568947,55.85631341,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72914.jpeg
+320,72915,fa1287,Ras Al-Khaimah,United Arab Emirates,25.71501978,55.8532691,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72915.jpeg
+321,72916,fa1287,Ras Al-Khaimah,United Arab Emirates,25.71481437,55.85227132,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72916.jpeg
+322,72917,fa1287,Ras Al-Khaimah,United Arab Emirates,25.71350427,55.84641438,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72917.jpeg
+323,72918,fa1287,Sharjah,United Arab Emirates,25.29535785,55.43512948,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72918.jpeg
+324,72919,fa1287,Sharjah,United Arab Emirates,25.29234956,55.43215189,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72919.jpeg
+325,72920,fa1287,Sharjah,United Arab Emirates,25.29561551,55.43476939,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72920.jpeg
+326,73012,fa1287,Ras Al-Khaimah,United Arab Emirates,25.79374947,55.94087508,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73012.jpeg
+327,73013,fa1287,Ras Al-Khaimah,United Arab Emirates,25.79266031,55.93984712,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73013.jpeg
+328,73014,fa1287,Ras Al-Khaimah,United Arab Emirates,25.75853156,55.91436513,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73014.jpeg
+329,73304,fa1287,Dubai,United Arab Emirates,24.94080873,55.04360039,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73304.jpeg
+330,73306,fa1287,Dubai,United Arab Emirates,24.94122335,55.04258759,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73306.jpeg
+331,73307,fa1287,Dubai,United Arab Emirates,24.94119707,55.04264209,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73307.jpeg
+332,73308,fa1287,Dubai,United Arab Emirates,24.9411775,55.0426198,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73308.jpeg
+333,73313,fa1287,Dubai,United Arab Emirates,24.89174642,54.93645208,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73313.jpeg
+334,73315,fa1287,Abu Dhabi,United Arab Emirates,24.66284284,54.7549736,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73315.jpeg
+335,73316,fa1287,Abu Dhabi,United Arab Emirates,24.5237896,54.43421658,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73316.jpeg
+336,73369,fa1287,Abu Dhabi,United Arab Emirates,24.53080446,54.43688203,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73369.jpeg
+337,73371,fa1287,Abu Dhabi,United Arab Emirates,24.5384208,54.43723343,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73371.jpeg
+338,73377,fa1287,Abu Dhabi,United Arab Emirates,24.51697256,54.5324157,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73377.jpeg
+339,73378,fa1287,Abu Dhabi,United Arab Emirates,24.51010855,54.55116985,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73378.jpeg
+340,73383,fa1287,Abu Dhabi,United Arab Emirates,24.49405841,54.5860799,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73383.jpeg
+341,73735,fa1287,Abu Dhabi,United Arab Emirates,24.3592258,54.5153296,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73735.jpeg
+342,73736,fa1287,Abu Dhabi,United Arab Emirates,24.3591696,54.51488335,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73736.jpeg
+343,73737,fa1287,Abu Dhabi,United Arab Emirates,24.35930399,54.51476231,"['ARA', 'ENG', 'MAL']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73737.jpeg
+344,73738,fa1287,Abu Dhabi,United Arab Emirates,24.35910668,54.51428823,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73738.jpeg
+345,73739,fa1287,Abu Dhabi,United Arab Emirates,24.45017577,54.39038292,['ARA'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73739.jpeg
+346,73740,fa1287,Abu Dhabi,United Arab Emirates,24.45091621,54.3896671,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73740.jpeg
+347,73741,fa1287,Abu Dhabi,United Arab Emirates,24.4507456,54.38976165,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73741.jpeg
+348,73751,fa1287,Abu Dhabi,United Arab Emirates,24.45149488,54.38913368,"['ARA', 'ENG']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73751.jpeg
+349,73752,fa1287,Abu Dhabi,United Arab Emirates,24.45072606,54.39002417,"['ARA', 'ENG']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73752.jpeg
+350,73753,fa1287,Abu Dhabi,United Arab Emirates,24.4504993,54.39000539,"['ARA', 'ENG']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73753.jpeg
+351,73754,fa1287,Abu Dhabi,United Arab Emirates,24.3590401,54.51325156,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73754.jpeg
+352,73755,fa1287,Abu Dhabi,United Arab Emirates,24.45072027,54.39010162,['ARA'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73755.jpeg
+353,73756,fa1287,Abu Dhabi,United Arab Emirates,24.45239798,54.38859086,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73756.jpeg
+354,73757,fa1287,Abu Dhabi,United Arab Emirates,24.45228841,54.38836724,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73757.jpeg
+355,73758,fa1287,Abu Dhabi,United Arab Emirates,24.45127757,54.38919771,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73758.jpeg
+356,73317,px321,Doha,Qatar,25.2894,51.53426667,"['ENG', 'ZHO']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73317.jpeg
+357,73318,px321,Doha,Qatar,25.28938833,51.53359667,"['ARA', 'ENG']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73318.jpeg
+358,73319,px321,Doha,Qatar,25.28785,51.533925,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73319.jpeg
+359,73320,px321,Doha,Qatar,25.28802833,51.535705,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73320.jpeg
+360,73321,px321,Doha,Qatar,25.28587167,51.5373,"['ARA', 'ENG']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73321.jpeg
+361,73322,px321,Doha,Qatar,25.27914667,51.55257833,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73322.jpeg
+362,73323,px321,Doha,Qatar,25.28845333,51.53576667,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73323.jpeg
+363,73324,px321,Doha,Qatar,25.2796,51.55350833,"['ENG', 'ZHO']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73324.jpeg
+364,74055,px321,Doha,Qatar,25.27765838,51.54829379,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74055.jpeg
+365,74064,px321,Doha,Qatar,25.289545,51.53543,"['ARA', 'ENG']",2,historic-worship,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74064.jpeg
+366,74067,px321,Doha,Qatar,25.28752833,51.53418,['ARA'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74067.jpeg
+367,74099,px321,Doha,Qatar,25.29212069,51.54249519,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74099.jpeg
+368,73504,mb7517,Yerevan,Armenia,40.1714834,44.5240286,"['ENG', 'HYE']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73504.jpeg
+369,73510,mb7517,Yerevan,Armenia,40.17352059,44.50104743,"['ENG', 'HYE', 'RUS']",3,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73510.jpeg
+370,73511,mb7517,Yerevan,Armenia,40.17937923,44.48819462,"['ENG', 'HYE']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73511.jpeg
+371,73512,mb7517,Yerevan,Armenia,40.17973376,44.48804006,['HYE'],1,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73512.jpeg
+372,73513,mb7517,Yerevan,Armenia,40.18624373,44.53760225,"['ENG', 'HYE']",2,health,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73513.jpeg
+373,73514,mb7517,Yerevan,Armenia,40.1734504,44.50375244,"['ENG', 'HYE', 'RUS']",3,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73514.jpeg
+374,73515,mb7517,Yerevan,Armenia,40.16697942,44.51303691,"['ENG', 'HYE']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73515.jpeg
+375,73516,mb7517,Yerevan,Armenia,40.16692869,44.52154052,"['ENG', 'HYE']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73516.jpeg
+376,73517,mb7517,Yerevan,Armenia,40.17207545,44.51272879,"['ENG', 'HYE', 'RUS']",3,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73517.jpeg
+377,73518,mb7517,Yerevan,Armenia,40.1752083,44.49934557,"['ENG', 'HYE']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73518.jpeg
+378,73519,mb7517,Yerevan,Armenia,40.17532307,44.49873704,"['ENG', 'HYE', 'RUS']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73519.jpeg
+379,73520,mb7517,Yerevan,Armenia,40.17392228,44.50049657,"['HYE', 'RUS']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73520.jpeg
+380,73521,mb7517,Yerevan,Armenia,40.17424379,44.50160868,"['ENG', 'HYE']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73521.jpeg
+381,73522,mb7517,Yerevan,Armenia,40.17485785,44.50467378,['HYE'],1,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73522.jpeg
+382,73523,mb7517,Yerevan,Armenia,40.17395405,44.50487696,"['ENG', 'RUS']",2,financial,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73523.jpeg
+383,73524,mb7517,Yerevan,Armenia,40.17400196,44.5044183,"['HYE', 'RUS']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73524.jpeg
+384,73525,mb7517,Yerevan,Armenia,40.17408675,44.5052756,"['ENG', 'HYE']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73525.jpeg
+385,73526,mb7517,Yerevan,Armenia,40.17230627,44.50712968,"['ENG', 'HYE']",2,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73526.jpeg
+386,73527,mb7517,Yerevan,Armenia,40.17181388,44.50839199,['ENG'],1,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73527.jpeg
+387,73528,mb7517,Yerevan,Armenia,40.17206341,44.50737275,"['ENG', 'HYE']",2,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73528.jpeg
+388,73529,mb7517,Yerevan,Armenia,40.17193788,44.50742707,"['ENG', 'HYE']",2,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73529.jpeg
+389,73530,mb7517,Yerevan,Armenia,40.1717629,44.5076118,['HYE'],1,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73530.jpeg
+390,73531,mb7517,Yerevan,Armenia,40.17143267,44.51021556,"['ENG', 'HYE']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73531.jpeg
+391,73532,mb7517,Yerevan,Armenia,40.17179339,44.51020986,"['ENG', 'HYE']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73532.jpeg
+392,73533,mb7517,Yerevan,Armenia,40.17205393,44.5109354,"['ENG', 'HYE']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73533.jpeg
+393,73534,mb7517,Yerevan,Armenia,40.17265648,44.51177426,"['ENG', 'HYE']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73534.jpeg
+394,73535,mb7517,Yerevan,Armenia,40.16615981,44.51296952,"['ENG', 'HYE']",2,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73535.jpeg
+395,73536,mb7517,Yerevan,Armenia,40.16579778,44.51274488,['HYE'],1,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73536.jpeg
+396,73537,mb7517,Yerevan,Armenia,40.17231037,44.51151978,"['ENG', 'HYE']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73537.jpeg
+397,73538,mb7517,Yerevan,Armenia,40.16733273,44.51303858,"['HYE', 'RUS']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73538.jpeg
+398,73539,mb7517,Yerevan,Armenia,40.16830041,44.51342415,"['ENG', 'HYE']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73539.jpeg
+399,73540,mb7517,Yerevan,Armenia,40.16561101,44.51275058,"['ENG', 'HYE', 'RUS']",3,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73540.jpeg
+400,73541,mb7517,Yerevan,Armenia,40.16570811,44.51345466,"['ENG', 'HYE']",2,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73541.jpeg
+401,73542,mb7517,Yerevan,Armenia,40.16601889,44.51289408,['HYE'],1,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73542.jpeg
+402,73543,mb7517,Yerevan,Armenia,40.17164531,44.51060113,['HYE'],1,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73543.jpeg
+403,73544,mb7517,Yerevan,Armenia,40.1686386,44.51463383,"['ENG', 'HYE', 'RUS']",3,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73544.jpeg
+404,73545,mb7517,Yerevan,Armenia,40.16630047,44.51347075,"['ENG', 'HYE', 'RUS']",3,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73545.jpeg
+405,73546,mb7517,Yerevan,Armenia,40.1652231,44.51333832,"['ENG', 'HYE']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73546.jpeg
+406,73720,mb7517,Yerevan,Armenia,40.1651716,44.5139911,"['ENG', 'HYE']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73720.jpeg
+407,73721,mb7517,Yerevan,Armenia,40.16551288,44.51337151,"['ENG', 'HYE']",2,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73721.jpeg
+408,73722,mb7517,Yerevan,Armenia,40.1673481,44.51306038,"['ENG', 'HYE']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73722.jpeg
+409,73723,mb7517,Yerevan,Armenia,40.16588746,44.51344494,"['ENG', 'HYE']",2,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73723.jpeg
+410,73724,mb7517,Yerevan,Armenia,40.17241157,44.51125089,"['ENG', 'HYE']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73724.jpeg
+411,73725,mb7517,Yerevan,Armenia,40.16641781,44.51288402,"['ENG', 'HYE']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73725.jpeg
+412,73726,mb7517,Yerevan,Armenia,40.1662792,44.51931696,"['ENG', 'HYE']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73726.jpeg
+413,73727,mb7517,Yerevan,Armenia,40.17206443,44.51259736,"['ENG', 'HYE', 'RUS']",3,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73727.jpeg
+414,73728,mb7517,Yerevan,Armenia,40.16632788,44.51344863,['RUS'],1,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73728.jpeg
+415,73729,mb7517,Yerevan,Armenia,40.16625691,44.51294303,"['HYE', 'RUS']",2,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73729.jpeg
+416,73730,mb7517,Yerevan,Armenia,40.16693869,44.51345198,"['ENG', 'HYE']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73730.jpeg
+417,73731,mb7517,Yerevan,Armenia,40.19716263,44.56763797,"['ENG', 'HYE']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73731.jpeg
+418,73732,mb7517,Yerevan,Armenia,40.1964407,44.56793536,"['ENG', 'HYE']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73732.jpeg
+419,73733,mb7517,Yerevan,Armenia,40.20158138,44.57485646,"['ENG', 'HYE']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73733.jpeg
+420,71206,aha398,Abu Dhabi,United Arab Emirates,24.52497604,54.43319796,['ARA'],1,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71206.jpeg
+421,71218,aha398,Abu Dhabi,United Arab Emirates,24.52469211,54.43340806,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71218.jpeg
+422,74032,aha398,T'bilisi,Georgia,41.67048667,44.96393333,"['ENG', 'KAT']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74032.jpeg
+423,74033,aha398,T'bilisi,Georgia,41.78397857,44.79981719,"['ENG', 'KAT']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74033.jpeg
+424,74034,aha398,T'bilisi,Georgia,41.69485833,44.80038,"['ENG', 'KAT']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74034.jpeg
+425,74035,aha398,T'bilisi,Georgia,41.688105,44.80455,"['ENG', 'KAT']",2,historic-worship,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74035.jpeg
+426,74036,aha398,T'bilisi,Georgia,41.69310833,44.80281167,"['ARA', 'FAS', 'KAT']",3,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74036.jpeg
+427,74037,aha398,T'bilisi,Georgia,41.66987167,44.96474167,"['KAT', 'RUS']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74037.jpeg
+428,74038,aha398,T'bilisi,Georgia,41.66972,44.96490833,"['ENG', 'KAT']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74038.jpeg
+429,74039,aha398,T'bilisi,Georgia,41.66972,44.96490833,"['ENG', 'KAT', 'RUS']",3,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74039.jpeg
+430,74040,aha398,T'bilisi,Georgia,41.66958333,44.96473667,"['ENG', 'KAT']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74040.jpeg
+431,74041,aha398,T'bilisi,Georgia,41.6699,44.96466333,"['ENG', 'KAT']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74041.jpeg
+432,74042,aha398,T'bilisi,Georgia,41.66972167,44.96458333,"['ENG', 'KAT']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74042.jpeg
+433,74043,aha398,T'bilisi,Georgia,41.66972167,44.96458333,"['ENG', 'KAT']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74043.jpeg
+434,74044,aha398,T'bilisi,Georgia,41.66978,44.96322167,"['ENG', 'KAT']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74044.jpeg
+435,74045,aha398,T'bilisi,Georgia,41.66962,44.96362,"['ENG', 'KAT']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74045.jpeg
+436,74046,aha398,T'bilisi,Georgia,41.66956667,44.96404667,"['ENG', 'KAT']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74046.jpeg
+437,74047,aha398,T'bilisi,Georgia,41.669605,44.96353667,"['ENG', 'KAT']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74047.jpeg
+438,74048,aha398,T'bilisi,Georgia,41.66958667,44.963975,"['ENG', 'KAT']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74048.jpeg
+439,74049,aha398,T'bilisi,Georgia,41.66958667,44.963975,"['ENG', 'KAT']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74049.jpeg
+440,74050,aha398,T'bilisi,Georgia,41.66958667,44.963975,['ENG'],1,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74050.jpeg
+441,74051,aha398,T'bilisi,Georgia,41.66971667,44.96482167,"['ENG', 'KAT']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74051.jpeg
+442,74065,aha398,T'bilisi,Georgia,41.71083333,44.76672222,"['ENG', 'KAT', 'RUS']",3,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74065.jpeg
+443,74066,aha398,T'bilisi,Georgia,41.71080556,44.76616667,"['ENG', 'KAT']",2,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74066.jpeg
+444,74068,aha398,T'bilisi,Georgia,41.71002778,44.76608333,['ENG'],1,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74068.jpeg
+445,74069,aha398,T'bilisi,Georgia,41.71140886,44.74669612,"['ENG', 'KAT']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74069.jpeg
+446,74070,aha398,T'bilisi,Georgia,41.70988889,44.76741667,"['ENG', 'KAT']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74070.jpeg
+447,74071,aha398,T'bilisi,Georgia,41.70983333,44.76788889,"['ENG', 'KAT']",2,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74071.jpeg
+448,74072,aha398,T'bilisi,Georgia,41.69887172,44.80670929,"['DEU', 'KAT']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74072.jpeg
+449,74073,aha398,T'bilisi,Georgia,41.712,44.78072222,"['ENG', 'KAT']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74073.jpeg
+450,74074,aha398,T'bilisi,Georgia,41.71222222,44.77919444,"['ENG', 'KAT']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74074.jpeg
+451,74075,aha398,T'bilisi,Georgia,41.71197222,44.77741667,"['ENG', 'KAT']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74075.jpeg
+452,74076,aha398,T'bilisi,Georgia,41.71136111,44.77055556,"['ENG', 'KAT']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74076.jpeg
+453,74077,aha398,T'bilisi,Georgia,41.7121196,44.7902164,['ENG'],1,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74077.jpeg
+454,74078,aha398,T'bilisi,Georgia,41.7121196,44.7902164,['KAT'],1,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74078.jpeg
+455,74080,aha398,T'bilisi,Georgia,41.70271086,44.80434165,"['KAT', 'RUS']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74080.jpeg
+456,74081,aha398,T'bilisi,Georgia,41.704032,44.799026,"['ENG', 'KAT']",2,historic-worship,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74081.jpeg
+457,74083,aha398,T'bilisi,Georgia,41.702757,44.803786,"['ENG', 'KAT']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74083.jpeg
+458,74084,aha398,T'bilisi,Georgia,41.700679,44.802137,"['ENG', 'KAT']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74084.jpeg
+459,74085,aha398,T'bilisi,Georgia,41.700142,44.8020982,"['ENG', 'KAT']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74085.jpeg
+460,74086,aha398,T'bilisi,Georgia,41.7004338,44.8015113,"['ENG', 'KAT']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74086.jpeg
+461,74088,aha398,T'bilisi,Georgia,41.69837509,44.80350308,"['ENG', 'KAT']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74088.jpeg
+462,74091,aha398,T'bilisi,Georgia,41.699747,44.800304,"['ENG', 'KAT']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74091.jpeg
+463,74093,aha398,T'bilisi,Georgia,41.699511,44.799816,"['ENG', 'RUS']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74093.jpeg
+464,74094,aha398,T'bilisi,Georgia,41.6991422,44.7982958,"['KAT', 'RUS']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74094.jpeg
+465,74096,aha398,T'bilisi,Georgia,41.69898387,44.79827106,"['ENG', 'KAT']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74096.jpeg
+466,74098,aha398,Kutaisi,Georgia,42.26641795,42.69026683,"['ENG', 'KAT']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74098.jpeg
+467,74100,aha398,T'bilisi,Georgia,41.701872,44.794537,"['ENG', 'KAT', 'RUS']",3,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74100.jpeg
+468,74102,aha398,T'bilisi,Georgia,41.703127,44.792949,"['ENG', 'KAT']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74102.jpeg
+469,74105,aha398,ცაგერი,Georgia,41.7033889,44.7912778,"['ENG', 'KAT']",2,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74105.jpeg
+470,71234,djw12,Abu Dhabi,United Arab Emirates,24.51867937,54.39804638,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71234.jpeg
+471,71236,djw12,Abu Dhabi,United Arab Emirates,24.50216016,54.38909512,['ENG'],1,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71236.jpeg
+472,71809,djw12,Abu Dhabi,United Arab Emirates,24.41318063,54.35200998,"['ARA', 'ENG']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71809.jpeg
+473,72051,djw12,Dubai,United Arab Emirates,25.25909904,55.34135804,"['ARA', 'ENG']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72051.jpeg
+474,71202,kds490,Abu Dhabi,United Arab Emirates,24.52390056,54.43419444,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71202.jpeg
+475,71216,kds490,Abu Dhabi,United Arab Emirates,24.52405914,54.43421827,['ARA'],1,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71216.jpeg
+476,71228,kds490,Abu Dhabi,United Arab Emirates,24.52372887,54.43462073,['ARA'],1,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71228.jpeg
+477,73424,kds490,Abu Dhabi,United Arab Emirates,24.53908754,54.41438984,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73424.jpeg
+478,73425,kds490,Abu Dhabi,United Arab Emirates,24.53924948,54.41447059,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73425.jpeg
+479,73427,kds490,Abu Dhabi,United Arab Emirates,24.53929367,54.41448422,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73427.jpeg
+480,73430,kds490,Abu Dhabi,United Arab Emirates,24.5391489,54.41354671,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73430.jpeg
+481,73432,kds490,Abu Dhabi,United Arab Emirates,24.53916467,54.41332978,"['ARA', 'ENG']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73432.jpeg
+482,73434,kds490,Abu Dhabi,United Arab Emirates,24.53914408,54.41309837,"['ARA', 'ENG']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73434.jpeg
+483,73436,kds490,Abu Dhabi,United Arab Emirates,24.53912293,54.41305771,"['ARA', 'ENG']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73436.jpeg
+484,73438,kds490,Abu Dhabi,United Arab Emirates,24.53896517,54.41282387,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73438.jpeg
+485,73439,kds490,Abu Dhabi,United Arab Emirates,24.53878418,54.41288511,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73439.jpeg
+486,73441,kds490,Abu Dhabi,United Arab Emirates,24.53880522,54.4129084,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73441.jpeg
+487,73442,kds490,Abu Dhabi,United Arab Emirates,24.53883057,54.41292011,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73442.jpeg
+488,73444,kds490,Abu Dhabi,United Arab Emirates,24.53922375,54.41214004,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73444.jpeg
+489,73446,kds490,Abu Dhabi,United Arab Emirates,24.53855643,54.41163129,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73446.jpeg
+490,73447,kds490,Abu Dhabi,United Arab Emirates,24.5384423,54.41195807,"['ARA', 'ENG']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73447.jpeg
+491,73449,kds490,Abu Dhabi,United Arab Emirates,24.53854594,54.4117569,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73449.jpeg
+492,73450,kds490,Abu Dhabi,United Arab Emirates,24.53855578,54.41181881,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73450.jpeg
+493,73451,kds490,Abu Dhabi,United Arab Emirates,24.53853935,54.41178496,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73451.jpeg
+494,73452,kds490,Abu Dhabi,United Arab Emirates,24.538554,54.41176351,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73452.jpeg
+495,73453,kds490,Abu Dhabi,United Arab Emirates,24.53854822,54.41185678,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73453.jpeg
+496,73454,kds490,Abu Dhabi,United Arab Emirates,24.53853681,54.4117851,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73454.jpeg
+497,73455,kds490,Abu Dhabi,United Arab Emirates,24.53853494,54.41177514,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73455.jpeg
+498,73456,kds490,Abu Dhabi,United Arab Emirates,24.53853108,54.41179081,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73456.jpeg
+499,73457,kds490,Abu Dhabi,United Arab Emirates,24.53853014,54.4117653,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73457.jpeg
+500,73458,kds490,Abu Dhabi,United Arab Emirates,24.53855358,54.41183429,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73458.jpeg
+501,73459,kds490,Abu Dhabi,United Arab Emirates,24.53926025,54.41164789,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73459.jpeg
+502,73460,kds490,Abu Dhabi,United Arab Emirates,24.53925212,54.41138063,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73460.jpeg
+503,73461,kds490,Abu Dhabi,United Arab Emirates,24.53925533,54.40995107,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73461.jpeg
+504,73462,kds490,Abu Dhabi,United Arab Emirates,24.539261,54.40938065,"['ARA', 'ENG']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73462.jpeg
+505,73463,kds490,Abu Dhabi,United Arab Emirates,24.53926956,54.40920906,"['ARA', 'ENG']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73463.jpeg
+506,73464,kds490,Abu Dhabi,United Arab Emirates,24.53921755,54.40899341,"['ARA', 'ENG']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73464.jpeg
+507,73465,kds490,Abu Dhabi,United Arab Emirates,24.53912968,54.40841436,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73465.jpeg
+508,73466,kds490,Abu Dhabi,United Arab Emirates,24.53913909,54.40815347,"['ARA', 'ENG']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73466.jpeg
+509,73467,kds490,Abu Dhabi,United Arab Emirates,24.53901722,54.40722486,['ENG'],1,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73467.jpeg
+510,73468,kds490,Abu Dhabi,United Arab Emirates,24.53840766,54.40738496,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73468.jpeg
+511,73469,kds490,Abu Dhabi,United Arab Emirates,24.5384258,54.40759975,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73469.jpeg
+512,73470,kds490,Abu Dhabi,United Arab Emirates,24.53843615,54.40760486,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73470.jpeg
+513,73471,kds490,Abu Dhabi,United Arab Emirates,24.53841767,54.40761791,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73471.jpeg
+514,73472,kds490,Abu Dhabi,United Arab Emirates,24.53842039,54.40763781,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73472.jpeg
+515,73473,kds490,Abu Dhabi,United Arab Emirates,24.53833615,54.40809094,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73473.jpeg
+516,73474,kds490,Abu Dhabi,United Arab Emirates,24.53831849,54.40855236,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73474.jpeg
+517,73475,kds490,Abu Dhabi,United Arab Emirates,24.53860476,54.40924564,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73475.jpeg
+518,73476,kds490,Abu Dhabi,United Arab Emirates,24.53874684,54.40906692,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73476.jpeg
+519,73477,kds490,Abu Dhabi,United Arab Emirates,24.53854871,54.40914206,['ENG'],1,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73477.jpeg
+520,73478,kds490,Abu Dhabi,United Arab Emirates,24.53908295,54.40917679,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73478.jpeg
+522,74061,kds490,Abu Dhabi,United Arab Emirates,24.4731309,54.37342163,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74061.jpeg
+523,74062,kds490,Abu Dhabi,United Arab Emirates,24.47149191,54.37207919,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74062.jpeg
+524,74063,kds490,Abu Dhabi,United Arab Emirates,24.4719887,54.37269576,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/74063.jpeg
+525,71196,mkd393,Abu Dhabi,United Arab Emirates,24.52448258,54.43362786,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71196.jpeg
+526,71203,mkd393,Abu Dhabi,United Arab Emirates,24.52474339,54.43352307,"['ARA', 'ENG', 'URD']",3,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71203.jpeg
+527,71211,mkd393,Abu Dhabi,United Arab Emirates,24.52423553,54.43386287,"['ENG', 'UKR']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71211.jpeg
+528,71220,mkd393,Abu Dhabi,United Arab Emirates,24.52424433,54.43386773,"['ARA', 'ENG', 'URD']",3,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71220.jpeg
+529,72067,mkd393,Abu Dhabi,United Arab Emirates,24.52455588,54.43339583,"['ENG', 'HIN']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72067.jpeg
+530,73796,mkd393,Abu Dhabi,United Arab Emirates,24.52282371,54.43557671,['ENG'],1,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73796.jpeg
+531,73797,mkd393,Abu Dhabi,United Arab Emirates,24.5228258,54.43558876,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73797.jpeg
+532,73798,mkd393,Abu Dhabi,United Arab Emirates,24.5228352,54.43559223,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73798.jpeg
+533,73799,mkd393,Abu Dhabi,United Arab Emirates,24.52275837,54.43554239,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73799.jpeg
+534,73800,mkd393,Abu Dhabi,United Arab Emirates,24.52287189,54.4355411,['UKR'],1,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73800.jpeg
+535,73801,mkd393,Abu Dhabi,United Arab Emirates,24.52287534,54.43555312,['ENG'],1,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73801.jpeg
+536,72805,nm3292,Abu Dhabi,United Arab Emirates,24.48968378,54.36402183,"['ARA', 'ENG', 'ZHO']",3,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72805.jpeg
+537,72806,nm3292,Abu Dhabi,United Arab Emirates,24.4897805,54.37122088,"['ENG', 'TAI']",2,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72806.jpeg
+538,72807,nm3292,Abu Dhabi,United Arab Emirates,24.48920475,54.38104514,"['AMH', 'ENG']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72807.jpeg
+539,72808,nm3292,Abu Dhabi,United Arab Emirates,24.48918217,54.38295722,['ZHO'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72808.jpeg
+540,72809,nm3292,Abu Dhabi,United Arab Emirates,24.48941253,54.38327439,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72809.jpeg
+541,72810,nm3292,Abu Dhabi,United Arab Emirates,24.48874372,54.38191451,"['ARA', 'ENG', 'URD']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72810.jpeg
+542,72811,nm3292,Abu Dhabi,United Arab Emirates,24.49443918,54.3695445,"['ARA', 'ENG']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72811.jpeg
+543,72812,nm3292,Kamienna Góra,Poland,50.77002212,16.03999011,['POL'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/72812.jpeg
+544,73325,nm3292,Abu Dhabi,United Arab Emirates,24.48828665,54.36129838,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73325.jpeg
+545,73338,nm3292,Abu Dhabi,United Arab Emirates,24.47042385,54.37285066,"['ARA', 'ENG', 'POL']",3,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73338.jpeg
+546,73339,nm3292,Abu Dhabi,United Arab Emirates,24.49109736,54.3653854,['ITA'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73339.jpeg
+547,73340,nm3292,Abu Dhabi,United Arab Emirates,24.49301831,54.36802,"['ARA', 'ENG']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73340.jpeg
+548,73341,nm3292,Abu Dhabi,United Arab Emirates,24.48574867,54.3574065,['ARA'],1,financial,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73341.jpeg
+549,73342,nm3292,Abu Dhabi,United Arab Emirates,24.49128836,54.36559428,['ENG'],1,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73342.jpeg
+550,73343,nm3292,Abu Dhabi,United Arab Emirates,24.49002733,54.36354574,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73343.jpeg
+551,73345,nm3292,Abu Dhabi,United Arab Emirates,24.49182626,54.36623868,"['ARA', 'ENG', 'FAS', 'HIN']",4,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73345.jpeg
+552,73346,nm3292,Abu Dhabi,United Arab Emirates,24.49540513,54.3742967,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73346.jpeg
+553,73348,nm3292,Abu Dhabi,United Arab Emirates,24.48969751,54.36370701,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73348.jpeg
+554,73350,nm3292,Abu Dhabi,United Arab Emirates,24.49279925,54.37275611,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73350.jpeg
+555,73353,nm3292,Abu Dhabi,United Arab Emirates,24.49156631,54.37104486,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73353.jpeg
+556,73354,nm3292,Abu Dhabi,United Arab Emirates,24.49045205,54.36774641,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73354.jpeg
+557,73362,nm3292,Abu Dhabi,United Arab Emirates,24.46407301,54.3283736,['ENG'],1,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73362.jpeg
+558,73695,nm3292,Abu Dhabi,United Arab Emirates,24.48919315,54.36707217,"['ARA', 'ENG']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73695.jpeg
+559,73696,nm3292,Abu Dhabi,United Arab Emirates,24.49377253,54.37225085,"['ARA', 'ENG', 'ZHO']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73696.jpeg
+560,73697,nm3292,Abu Dhabi,United Arab Emirates,24.4927486,54.37216669,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73697.jpeg
+561,73698,nm3292,Abu Dhabi,United Arab Emirates,24.48780182,54.36590709,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73698.jpeg
+562,73699,nm3292,Abu Dhabi,United Arab Emirates,24.49162886,54.36610758,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73699.jpeg
+563,73700,nm3292,Abu Dhabi,United Arab Emirates,24.49260429,54.36848637,['ARA'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73700.jpeg
+564,73701,nm3292,Abu Dhabi,United Arab Emirates,24.49174205,54.36900739,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73701.jpeg
+565,73702,nm3292,Abu Dhabi,United Arab Emirates,24.49017409,54.36833851,"['ENG', 'TGL']",2,apartments,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73702.jpeg
+566,73703,nm3292,Abu Dhabi,United Arab Emirates,24.49255394,54.37238563,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73703.jpeg
+567,73704,nm3292,Abu Dhabi,United Arab Emirates,24.49294936,54.37305484,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73704.jpeg
+568,73705,nm3292,Abu Dhabi,United Arab Emirates,24.49583929,54.37608641,['ENG'],1,financial,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73705.jpeg
+569,73706,nm3292,Abu Dhabi,United Arab Emirates,24.4958878,54.37599052,"['ARA', 'ENG']",2,financial,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73706.jpeg
+570,73707,nm3292,Abu Dhabi,United Arab Emirates,24.49405506,54.37360704,"['ENG', 'KOR']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73707.jpeg
+571,73708,nm3292,Abu Dhabi,United Arab Emirates,24.49121879,54.3704645,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73708.jpeg
+572,73709,nm3292,Abu Dhabi,United Arab Emirates,24.49298384,54.37104519,"['ARA', 'ENG']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73709.jpeg
+573,73710,nm3292,Abu Dhabi,United Arab Emirates,24.49313273,54.37088896,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73710.jpeg
+574,73711,nm3292,Abu Dhabi,United Arab Emirates,24.49348482,54.3740258,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73711.jpeg
+575,73712,nm3292,Abu Dhabi,United Arab Emirates,24.49342929,54.37403083,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73712.jpeg
+576,73713,nm3292,Abu Dhabi,United Arab Emirates,24.49491361,54.37580042,"['ENG', 'FRA']",2,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73713.jpeg
+577,73714,nm3292,Abu Dhabi,United Arab Emirates,24.49436779,54.3746189,['ENG'],1,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73714.jpeg
+578,73715,nm3292,Abu Dhabi,United Arab Emirates,24.49619778,54.3771841,"['ARA', 'ENG', 'URD']",3,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73715.jpeg
+579,73716,nm3292,Abu Dhabi,United Arab Emirates,24.4969654,54.37709123,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73716.jpeg
+580,73717,nm3292,Abu Dhabi,United Arab Emirates,24.49753562,54.37665705,"['ENG', 'TGL']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73717.jpeg
+581,73718,nm3292,Abu Dhabi,United Arab Emirates,24.4981751,54.37559087,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73718.jpeg
+582,73719,nm3292,Abu Dhabi,United Arab Emirates,24.49824588,54.37538166,['SPA'],1,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73719.jpeg
+583,73770,nm3292,New York,United States,40.73969865,-74.00863431,['ENG'],1,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73770.jpeg
+584,73772,nm3292,New York,United States,40.74722242,-73.98031421,"['ENG', 'POL']",2,public,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73772.jpeg
+585,73773,nm3292,New York,United States,40.80803034,-73.96391518,['ENG'],1,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73773.jpeg
+586,73802,vb1419,Tirana,Albania,41.41907755,19.713788,"['ENG', 'SQI']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73802.jpeg
+587,73803,vb1419,Rinas,Albania,41.41923117,19.71283045,"['ENG', 'SQI']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73803.jpeg
+588,73804,vb1419,Rinas,Albania,41.4193971,19.71290756,"['ENG', 'SQI']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73804.jpeg
+589,73806,vb1419,Tirana,Albania,41.41936743,19.71405119,"['ENG', 'SQI']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73806.jpeg
+590,73809,vb1419,Tirana,Albania,41.41886384,19.71383326,"['ENG', 'SQI']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73809.jpeg
+591,73813,vb1419,,Albania,41.41825087,19.71359018,"['ENG', 'SQI']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73813.jpeg
+592,73814,vb1419,,Albania,41.41876176,19.71347585,"['ENG', 'SQI']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73814.jpeg
+593,73815,vb1419,Tirana,Albania,41.41930408,19.7138698,"['ENG', 'SQI']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73815.jpeg
+594,73817,vb1419,Tirana,Albania,41.41956279,19.71400157,"['ENG', 'SQI']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73817.jpeg
+595,73818,vb1419,Rinas,Albania,41.4195389,19.71428186,"['ENG', 'SQI']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73818.jpeg
+596,73820,vb1419,Tirana,Albania,41.41938051,19.71405789,"['ENG', 'SQI']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73820.jpeg
+597,73823,vb1419,Tirana,Albania,41.4191663,19.71378498,"['ENG', 'SQI']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73823.jpeg
+598,73824,vb1419,Gjeç-Fushë,Albania,41.41896893,19.70638476,"['ENG', 'SQI']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73824.jpeg
+599,73826,vb1419,Rinas,Albania,41.41923443,19.71433282,"['ENG', 'SQI']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73826.jpeg
+600,73828,vb1419,Rinas,Albania,41.41934883,19.71465636,"['ENG', 'SQI']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73828.jpeg
+601,73829,vb1419,أبو ظبي,United Arab Emirates,24.52445639,54.43462629,"['ENG', 'URD']",2,school,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73829.jpeg
+602,73831,vb1419,Mecca,Saudi Arabia,21.41747904,39.78834316,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73831.jpeg
+603,73833,vb1419,Mecca,Saudi Arabia,21.41748372,39.78842162,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73833.jpeg
+604,73835,vb1419,Mecca,Saudi Arabia,21.41768317,39.78879813,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73835.jpeg
+605,73836,vb1419,Mecca,Saudi Arabia,21.41777555,39.78874248,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73836.jpeg
+606,73837,vb1419,Mecca,Saudi Arabia,21.41717534,39.78855874,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73837.jpeg
+607,73838,vb1419,Makkah,Saudi Arabia,21.41768878,39.78901304,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73838.jpeg
+608,73840,vb1419,Mecca,Saudi Arabia,21.41785421,39.78883501,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73840.jpeg
+609,73841,vb1419,Mecca,Saudi Arabia,21.41768192,39.7888454,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73841.jpeg
+610,73842,vb1419,مكة المكرمة,Saudi Arabia,21.41671308,39.78865597,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73842.jpeg
+611,73844,vb1419,Mecca,Saudi Arabia,21.41817694,39.78916459,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73844.jpeg
+612,73845,vb1419,Mecca,Saudi Arabia,21.41846285,39.78916425,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73845.jpeg
+613,73847,vb1419,Mecca,Saudi Arabia,21.41814011,39.78933156,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73847.jpeg
+614,73849,vb1419,Makkah,Saudi Arabia,21.38740659,39.7238243,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73849.jpeg
+615,73852,vb1419,Medina,Saudi Arabia,24.47240616,39.69952181,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73852.jpeg
+616,73854,vb1419,Medina,Saudi Arabia,24.46804175,39.61297799,"['ARA', 'ENG']",2,historic-worship,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73854.jpeg
+617,73856,vb1419,Medina,Saudi Arabia,24.46702951,39.60461821,"['ARA', 'ENG']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73856.jpeg
+618,73857,vb1419,Medina,Saudi Arabia,24.4670109,39.60460916,"['ARA', 'ENG']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73857.jpeg
+619,73858,vb1419,Medina,Saudi Arabia,24.4669697,39.60463732,"['ARA', 'ENG', 'URD']",3,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73858.jpeg
+620,73860,vb1419,Medina,Saudi Arabia,24.46695047,39.6046561,"['ARA', 'ENG']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73860.jpeg
+621,73861,vb1419,Medina,Saudi Arabia,24.4669816,39.60463129,"['ARA', 'ENG']",2,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73861.jpeg
+622,73866,vb1419,Jeddah,Saudi Arabia,21.66130517,39.17735439,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73866.jpeg
+623,73868,vb1419,جدة,Saudi Arabia,21.66149182,39.17211838,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73868.jpeg
+624,73869,vb1419,جدة,Saudi Arabia,21.66149961,39.17177271,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73869.jpeg
+625,73873,vb1419,Jeddah,Saudi Arabia,21.66038252,39.17398687,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73873.jpeg
+626,73875,vb1419,Dubai,United Arab Emirates,25.24862972,55.36150318,"['ARA', 'ENG']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73875.jpeg
+627,73877,vb1419,دبي,United Arab Emirates,25.24842108,55.36148876,"['ARA', 'ENG']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73877.jpeg
+628,73878,vb1419,Jeddah,Saudi Arabia,21.65949414,39.17435233,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73878.jpeg
+629,73880,vb1419,دبي,United Arab Emirates,25.24834588,55.36221094,"['ARA', 'ENG']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73880.jpeg
+630,73881,vb1419,Jeddah,Saudi Arabia,21.67099809,39.17073905,"['ARA', 'ENG']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73881.jpeg
+631,73882,vb1419,Jeddah,Saudi Arabia,21.67212444,39.17177238,"['ARA', 'ENG']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73882.jpeg
+632,73883,vb1419,دبي,United Arab Emirates,25.24827371,55.36191758,"['ARA', 'ENG']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73883.jpeg
+633,73884,vb1419,Jeddah,Saudi Arabia,21.67163931,39.17170566,"['ARA', 'ENG']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73884.jpeg
+634,73885,vb1419,Jeddah,Saudi Arabia,21.65918316,39.17417262,"['ARA', 'ENG']",2,transport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73885.jpeg
+635,73886,vb1419,جدة,Saudi Arabia,21.6612603,39.17238928,"['ARA', 'ENG']",2,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73886.jpeg
+636,73887,vb1419,Jeddah,Saudi Arabia,21.67195619,39.17174321,"['ARA', 'ENG']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73887.jpeg
+637,73889,vb1419,Jeddah,Saudi Arabia,21.67218084,39.17199701,"['ARA', 'ENG']",2,food,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73889.jpeg
+638,73890,vb1419,Tirana,Albania,41.4192372,19.71403543,"['ENG', 'SQI']",2,airport,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73890.jpeg
+639,71235,djw12,Abu Dhabi,United Arab Emirates,24.51539536,54.39240099,"['ARA', 'ENG', 'URD']",3,road,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/71235.jpeg
+640,73405,cy1413,Dubai,United Arab Emirates,25.06982775,55.30726623,['ENG'],1,leisure,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73405.jpeg
+641,73410,cy1413,Dubai,United Arab Emirates,25.06936948,55.30911796,"['ARA', 'ENG', 'JPN']",3,shop,https://raw.githubusercontent.com/nhungoc1508/F22-CDAD1033-DataAndHumanSpace/main/images/73410.jpeg
